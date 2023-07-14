@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+/*HEADER*/
+.logo {
+    margin: auto;
+}
+.nav-even {
+    display: none;
+}
+header {
+    text-align: center;
+}
+
+/*MAIN*/
+.bloco1 > div > img {
+    display: none;
+}
+
+/*SECTION-1*/
+.camada2b2 {
+    text-align: center;
+}
+
+/*SECTION-2*/
+.camada1b3 {
+    display: none;
+}
+.camada2b3 {
+    text-align: center;
+    padding: 30px 0;
+}

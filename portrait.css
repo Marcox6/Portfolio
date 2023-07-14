@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.descrição {
+    margin: auto;
+    max-width: 400px;
+    padding: 0 10px;
+}
+
+/*SECTION*/
+.trabalhos {
+    display: inline-grid;
+    max-width: 350px;
+    margin: auto;
+    row-gap: 20px;
+}

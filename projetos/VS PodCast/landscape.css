@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+/*HEADER*/
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav, ul, li {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 15px;
+}
+
+/*MAIN*/
+.bloco1 {
+    display: flex;
+}
+.camada1b1 {
+    max-width: 500px;
+}
+.camada1b1 > h1 {
+    font-size: 50px;
+}
+
+/*SECTION-1*/
+
+.camada2b2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+/*SECTION-2*/
+.bloco3 {
+    display: flex;
+}
+.camada1b3 {
+    margin:auto;
+}
+.camada2b3 {
+    margin:auto;
+}

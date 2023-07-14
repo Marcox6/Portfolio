@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/*MAIN*/
+.hello {
+    font-size: 40px;
+}
+h1 {
+    font-size: 64px;
+}
+.descrição {
+    max-width: 500px;
+}
+.descrição {
+    margin: auto;
+}
+
+/*SECTION*/
+
+.trabalhos {
+    display:flex;
+    justify-content: space-evenly;
+    margin:auto;
+    column-gap: 20px;
+}
+.job {
+    max-width: 300px;
+    padding: 50px;
+}
+.h2{
+    font-size: 32px;
+}

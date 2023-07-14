@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*Portrait*/
+
+main {
+    background-image: url(https://rollingstone.uol.com.br/media/uploads/breaking-bad-heisenberg-reprod-amc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main {
+    margin:auto;
+    padding: 100px 0;
+}
+input {
+    width: 250px;
+}
+.descrição > div {
+    padding-top: 500px;
+    color: white;
+}
+.descrição > h1 {
+    margin-top: 0;
+    color: white;
+}
+.comentarios {
+    max-width: 300px;
+    margin: auto;
+}
+

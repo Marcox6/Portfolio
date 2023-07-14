@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+/*HEADER*/
+body {
+    font-family: sans-serif;
+    background-color:azure;
+    max-width: 900px;
+    min-width: 200px;
+    margin:auto;
+}
+.em {
+    background-color: rgb(190,190,240);
+    color: rgb(140,0,250)
+}
+header {
+    padding-bottom: 25px;
+}
+.nav-even {
+    margin-top: 20px;
+}
+.navbutton {
+    background-color: rgb(20,0,100);
+    border-radius: 15px;
+    border:0;
+    width: 100px;
+    height: 50px;
+    color: white;
+    cursor: pointer;
+}
+em {
+    background-color: rgb(190,220,240);
+}
+a{
+    color: rgb(0, 200, 200);
+}
+.butt {
+    background-color: rgb(20,0,100);
+    border-radius: 15px;
+    border: 0;
+    color: white;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+
+/*MAIN*/
+.bloco1 {
+    background: linear-gradient(45deg, rgb(190,220,240), transparent, rgb(190,190,240));
+    border-radius: 50px;
+}
+.camada1b1 {
+    padding: 50px;
+}
+
+/*SECTION-1*/
+.bloco2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.camada1b2{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.camada2b2 {
+    padding: 20px;
+}
+
+/*SECTION-2*/
+.bloco3 {
+    background-color: rgb(190, 220, 240);
+    border-radius: 50px;
+}
+.camada1b3 {
+    margin:auto;
+}
+.camada2b3 {
+    margin:auto;
+}
+
+/*SECTION-3*/
+.grupo2 {
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 10px 0;
+}
+.bloco6 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50px;
+    padding: 25px;
+}
+#section-6 {
+    display: block;
+    padding: 50px 0;
+}
+
+/*FOOTER*/
+footer {
+    text-align: center;
+}

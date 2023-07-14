@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/*Landscape*/
+
+main {
+    background-image: url(https://ep01.epimg.net/elpais/imagenes/2018/01/19/album/1516367128_442397_1516371056_noticia_normal.jpg);
+}
+.main {
+    padding: 50px;
+}
+.descrição {
+    background: linear-gradient(90deg, transparent, rgb(226, 226, 29)20%, transparent);
+    color: black;
+}
+input {
+    width: 400px;
+}
+.conteudo {
+    text-align: center;
+    padding: 30px 0;
+    background-image: url(https://ae01.alicdn.com/kf/HTB1LhusJFXXXXcJXXXXq6xXFXXXN/Breaking-Bad-Poster-All-Hail-The-King-Walter-White-em-uma-sala-cheia-de-dinheiro-Tela.jpg_Q90.jpg_.webp);
+    background-size: cover;
+    background-position: center;
+}
+.comentarios {
+    display: flex;
+    justify-content: center;
+    column-gap: 5px;
+}
+.comentarios > div {
+    max-width: 300px;
+}
