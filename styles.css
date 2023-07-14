@@ -4,7 +4,7 @@ body {
     background-color: rgb(86, 148, 218);
     text-align: center;
 }
-p, h2, h3, q {
+p, h2, h3, q, a {
     color:rgb(15, 15, 43)
 }
 /*MAIN*/
